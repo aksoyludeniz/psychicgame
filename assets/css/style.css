@@ -1,0 +1,24 @@
+body {
+  text-align:center;
+  }
+
+fixed
+  text-align:center;
+
+
+  .center  {
+    align: center;
+    width: 960px;
+    margin-left:-20px;
+    margin-right:20px;
+  }
+
+#object {
+  font-family:bold;
+  font-size: 2.0em;
+}
+
+.tooltip {
+    display: inline-block;
+    border-bottom: 3px solid;  
+}
